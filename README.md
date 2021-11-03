@@ -1,4 +1,4 @@
-![github_banner](https://user-images.githubusercontent.com/64627811/140199378-75c48ea0-e822-42bf-8fb0-c0e78d0d0989.png)
+![banner](https://user-images.githubusercontent.com/64627811/140200073-988ec1ab-1562-4d21-9528-254d4f847fa8.png)
 
 <!--
 **WHKL-9/WHKL-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
