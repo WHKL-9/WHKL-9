@@ -1,9 +1,11 @@
 ![banner](https://user-images.githubusercontent.com/64627811/140200073-988ec1ab-1562-4d21-9528-254d4f847fa8.png)
 
-#Hey there am WH - frontend developer and soon to be graduate of TU Berlin. 
-###Currently based in :de:
+# Hey there am WH! 
+I am Frontend developer and soon to be graduate of TU Berlin.    
 
-##⚙️ What do I speak?
+Current location: 🇩🇪
+
+### ⚙️ What do I speak?
 <p>
   ![image](https://user-images.githubusercontent.com/64627811/140293380-1ab052bb-b67d-4f6a-a9a5-6f4b32d196e6.png)
   ![image](https://user-images.githubusercontent.com/64627811/140293448-801ed9df-5b74-4827-bb68-b7cd65e73ea5.png)
