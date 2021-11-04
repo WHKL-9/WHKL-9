@@ -1,21 +1,35 @@
-![banner](https://user-images.githubusercontent.com/64627811/140200073-988ec1ab-1562-4d21-9528-254d4f847fa8.png)
+![Hi there! I am WH Frontend Developer](https://user-images.githubusercontent.com/64627811/140300011-0f810c6c-b0ca-479e-9eb3-5021355e1c79.png)
 
-# Hey there am WH! 
-I am Frontend developer and soon to be graduate of TU Berlin.    
 
 Current location: 🇩🇪
 
-### ⚙️ What do I speak?
-<p>
-  ![image](https://user-images.githubusercontent.com/64627811/140293380-1ab052bb-b67d-4f6a-a9a5-6f4b32d196e6.png)
-  ![image](https://user-images.githubusercontent.com/64627811/140293448-801ed9df-5b74-4827-bb68-b7cd65e73ea5.png)
-  ![image](https://user-images.githubusercontent.com/64627811/140294247-ac2ecbce-96bd-401f-8899-c05b112d5e31.png)
-  ![image](https://user-images.githubusercontent.com/64627811/140293746-c1fd45bb-0a20-4b4b-8d2d-bb74ec66a7fc.png)
-  ![image](https://user-images.githubusercontent.com/64627811/140294136-7f425388-795e-4af3-ac43-70731df5ea73.png)
-  <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Redux</title><path d="M16.634 16.504c.87-.075 1.543-.84 1.5-1.754-.047-.914-.796-1.648-1.709-1.648h-.061a1.71 1.71 0 00-1.648 1.769c.03.479.226.869.494 1.153-1.048 2.038-2.621 3.536-5.005 4.795-1.603.838-3.296 1.154-4.944.93-1.378-.195-2.456-.81-3.116-1.799-.988-1.499-1.078-3.116-.255-4.734.6-1.17 1.499-2.023 2.099-2.443a9.96 9.96 0 01-.42-1.543C-.868 14.408-.416 18.752.932 20.805c1.004 1.498 3.057 2.456 5.304 2.456.6 0 1.23-.044 1.843-.194 3.897-.749 6.848-3.086 8.541-6.532zm5.348-3.746c-2.32-2.728-5.738-4.226-9.634-4.226h-.51c-.253-.554-.837-.899-1.498-.899h-.045c-.943 0-1.678.81-1.647 1.753.03.898.794 1.648 1.708 1.648h.074a1.69 1.69 0 001.499-1.049h.555c2.309 0 4.495.674 6.488 1.992 1.527 1.005 2.622 2.323 3.237 3.897.538 1.288.509 2.547-.045 3.597-.855 1.647-2.294 2.517-4.196 2.517-1.199 0-2.367-.375-2.967-.644-.36.298-.96.793-1.394 1.093 1.318.598 2.652.943 3.94.943 2.922 0 5.094-1.647 5.919-3.236.898-1.798.824-4.824-1.47-7.416zM6.49 17.042c.03.899.793 1.648 1.708 1.648h.06a1.688 1.688 0 001.648-1.768c0-.9-.779-1.647-1.693-1.647h-.06c-.06 0-.15 0-.226.029-1.243-2.098-1.768-4.347-1.572-6.772.12-1.828.72-3.417 1.797-4.735.9-1.124 2.593-1.68 3.747-1.708 3.236-.061 4.585 3.971 4.689 5.574l1.498.45C17.741 3.197 14.686.62 11.764.62 9.02.62 6.49 2.613 5.47 5.535 4.077 9.43 4.991 13.177 6.7 16.174c-.15.195-.24.539-.21.868z"/></svg>
-</p>
+## A few things about me 
+- Graduate from Strive School frontend development program, a Y-Combinator backed online European Tech School
+- Soon to be graduate from TU Berlin (Industrial Engineering and Management)
+- Learnt German in 10 months from scratch 
+- I love spicy food 🌶️ & coffee ☕
 
 
+## ⚙️ Languages that I speak: 
+<span>
+  <img src="https://user-images.githubusercontent.com/64627811/140302610-8f2f887d-9eb4-4a8f-8215-bb068cea535b.png" style="height:2rem; width:2rem"/>
+  <img src="https://user-images.githubusercontent.com/64627811/140302704-10f7af23-71ec-4c75-8bd0-c1412d54e3f9.png" style="height:2rem; width:2rem"/>
+  <img src="https://user-images.githubusercontent.com/64627811/140302953-d2dfb927-809b-4d08-a68f-03cb362ca129.png" style="height:2rem; width:2rem"/>
+  <img src="https://user-images.githubusercontent.com/64627811/140302886-277ba5d7-0b34-40f5-99a7-c71426244917.png" style="height:2rem; width:2rem"/>
+  <img src="https://user-images.githubusercontent.com/64627811/140303157-2c0f113c-d0d8-404b-94c6-696fa356daaf.png" style="height:2rem; width:2rem"/>
+  <img src="https://user-images.githubusercontent.com/64627811/140303635-6d15d482-d41a-4222-bbda-a83542e61e73.png" style="height:2rem; width:2rem"/>
+</span>
+
+
+## Stuffs that I built 🏗️:
+Project: [CoinWhale](https://coinwhale-oaeneq3ab-whkl-9.vercel.app/) - a Coin Market Cap clone that let you learn about your favorite cryptocurrencies via the latest tweets and YouTube 
+videos
+
+Have a look at my [portfolio site](https://wh-portfolio-o5961xlzq-whkl-9.vercel.app/)👀!
+## Let's connect! 
+Simply reach out to me on LinkedIn or say hello at weoyhowe19@gmail.com
+
+<a href="https://www.linkedin.com/in/weoy-howe-ang/" target="_blank"><img src="https://user-images.githubusercontent.com/64627811/140301423-3ae3c76b-2f66-4383-b946-ddf1db03667e.png" style="height:2rem; width:2rem"/></a>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WHKL-9)](https://github.com/anuraghazra/github-readme-stats&count_private=true)
