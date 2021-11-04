@@ -1,7 +1,7 @@
 ![banner](https://user-images.githubusercontent.com/64627811/140200073-988ec1ab-1562-4d21-9528-254d4f847fa8.png)
 
 Hey there am WH - frontend developer and soon to be graduate of TU Berlin. 
-:round_pushpin: ":" :de:
+:round_pushpin: :de:
 
 
 
