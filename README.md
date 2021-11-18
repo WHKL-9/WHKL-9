@@ -22,7 +22,7 @@ Current location: 🇩🇪
 
 
 ## Stuffs that I built 🏗️:
-Project: [CoinWhale](https://coinwhale-oaeneq3ab-whkl-9.vercel.app/) - a Coin Market Cap clone that let you learn about your favorite cryptocurrencies via the latest tweets and YouTube 
+Project: [CoinWhale](https://fe-jun21-capstone-project-coin-whale.vercel.app/) - a Coin Market Cap clone that let you learn about your favorite cryptocurrencies via the latest tweets and YouTube 
 videos
 
 Have a look at my [portfolio site](https://wh-portfolio-o5961xlzq-whkl-9.vercel.app/)👀!
