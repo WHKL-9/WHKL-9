@@ -1,6 +1,3 @@
-![Hi there! I am WH Frontend Developer](https://user-images.githubusercontent.com/64627811/140300011-0f810c6c-b0ca-479e-9eb3-5021355e1c79.png)
-
-
 Current location: 🇩🇪
 
 ## A few things about me 
